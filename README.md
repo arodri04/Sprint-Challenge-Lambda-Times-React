@@ -29,9 +29,13 @@ Look through the application code. If you have the old Lambda Times (Applied Jav
 ## Self-Study/Essay Questions
 
 - [ ] What are PropTypes used for? Please describe why it's important to type check our data in JavaScript.
+      proptypes are so you know youre sending the right information to the right place in react
 - [ ] Describe a life-cycle event in React?
+      lifecycle in react is how long components live before being destroyed mainly to free up resources
 - [ ] Explain the details of a Higher Order Component?
+      its where you take in a component and output a new component, its for re using logic of components
 - [ ] What are three different ways to style components in React? Explain some of the benefits of each.
+      CSS is my favorite thats when you go straight into the css file and change how things are, then reactstrap that comes with prebuilt items, then styled components that allow you to style in the JS.
 
 ## Project Setup
 
